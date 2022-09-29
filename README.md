@@ -8,3 +8,5 @@
 
 #3 CNN [slide](https://info-ruc.github.io/ai22/CNN.pdf)  /script [src](https://info-ruc.github.io/ai22/CNN.m) 
 
+#4 OD [slide](https://info-ruc.github.io/ai22/OD.pdf)  /script [src](https://info-ruc.github.io/ai22/OD.m) 
+
