@@ -10,5 +10,5 @@
 
 #4 OD [slide](https://info-ruc.github.io/ai22/OD.pdf)  /script [src](https://info-ruc.github.io/ai22/OD.m) 
 
-#4 ICOD Hands On [slide](https://info-ruc.github.io/ai22/ICOD-HandsOn.pdf)  /livescript [src](https://info-ruc.github.io/ai22/ICOD-demo.pdf) 
+#5 ICOD Hands On [slide](https://info-ruc.github.io/ai22/ICOD-HandsOn.pdf)  /livescript [src](https://info-ruc.github.io/ai22/ICOD-demo.pdf) 
 
