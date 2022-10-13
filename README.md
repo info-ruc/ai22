@@ -12,3 +12,5 @@
 
 #5 ICOD Hands On [slide](https://info-ruc.github.io/ai22/ICOD-HandsOn.pdf)  /livescript [src](https://info-ruc.github.io/ai22/ICOD-demo.pdf) 
 
+#6 SS [slide](https://info-ruc.github.io/ai22/SS1.pdf)  /script [src](https://info-ruc.github.io/ai22/SS1.m) 
+
