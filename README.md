@@ -14,3 +14,5 @@
 
 #6 SS [slide](https://info-ruc.github.io/ai22/SS1.pdf)  /script [src](https://info-ruc.github.io/ai22/SS1.m) 
 
+#7 SS2 [slide](https://info-ruc.github.io/ai22/SS2.pdf)  /script [src](https://info-ruc.github.io/ai22/SS2.m) 
+
