@@ -16,3 +16,5 @@
 
 #7 SS2 [slide](https://info-ruc.github.io/ai22/SS2.pdf)  /script [src](https://info-ruc.github.io/ai22/SS2.m) 
 
+#8 GAN [slide](https://info-ruc.github.io/ai22/GAN.pdf)  /script [src](https://info-ruc.github.io/ai22/GAN.m) 
+
