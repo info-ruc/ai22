@@ -18,3 +18,4 @@
 
 #8 GAN [slide](https://info-ruc.github.io/ai22/GAN.pdf)  /script [src](https://info-ruc.github.io/ai22/GAN.m) 
 
+#9 GAN-SS [slide](https://info-ruc.github.io/ai22/GAN-SS.pdf)  /script [src](https://info-ruc.github.io/ai22/GAN-SS.m) 
