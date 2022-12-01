@@ -19,3 +19,11 @@
 #8 GAN [slide](https://info-ruc.github.io/ai22/GAN.pdf)  /script [src](https://info-ruc.github.io/ai22/GAN.m) 
 
 #9 GAN-SS [slide](https://info-ruc.github.io/ai22/GAN-SS.pdf)  /script [src](https://info-ruc.github.io/ai22/GAN-SS.m) 
+
+#10 SLAM1 [slide](https://info-ruc.github.io/ai22/SLAM1.pdf)
+
+#11 SLAM2 [slide](https://info-ruc.github.io/ai22/SLAM2.pdf)
+
+#12 SLAM3 [slide](https://info-ruc.github.io/ai22/SLAM3.pdf)
+
+#13 RL1 [slide](https://info-ruc.github.io/ai22/RL1.pdf)
