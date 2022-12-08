@@ -27,3 +27,5 @@
 #12 SLAM3 [slide](https://info-ruc.github.io/ai22/SLAM3.pdf)
 
 #13 RL1 [slide](https://info-ruc.github.io/ai22/RL1.pdf)
+
+#14 RL2 [slide](https://info-ruc.github.io/ai22/RL2.pdf)
